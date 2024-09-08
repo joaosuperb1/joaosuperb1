@@ -1,33 +1,14 @@
-## Hi there 👋
+<h1 align="left">Oi👋!</h1>
+<h3 align="left"> Eu sou o João Victor Superbi, mas pode me chamar de Superbi.</h3>
+<h4 align="left">Estudante de Ciencias da Computação, mexo no blender de vez em quando... Pão de queijo é vida! </h3>
 
-<!--
-**joaosuperb1/joaosuperb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="left">Oi👋! Eu sou o João Victor Superbi, mas pode me chamar de Superbi.</h1>
-<h3 align="left">Só cara aí com uma namorada linda❤\n
-Mexo no blender de vez em quando...\n
-Pão de queijo é vida! </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaosuperb1&label=Profile%20views&color=0e75b6&style=flat" alt="joaosuperb1" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<a href="https://www.youtube.com/c/@sup3rb1" rel="nofollow"><img src="https://camo.githubusercontent.com/48caee3028443688e4c4b4ddd7b6670d55365d5885417877424cbf76eb8b58ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75747562652d4646303030303f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d464630303030266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f796f75747562652e636f6d2f632f756e69766572736f646973637265746f" alt="Youtube Badge" data-canonical-src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&amp;labelColor=FF0000&amp;logo=youtube&amp;logoColor=white&amp;link=https://www.youtube.com/c/@sup3rb1" style="max-width: 100%;"></a>
+<a href="https://masto.donte.com.br/@Sup3rb1" rel="nofollow"><img src="https://camo.githubusercontent.com/ab2fb20504c152e48cc52bb0be908c387426dbf194fd6962964a06d9968feeba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d316361306631266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f3169766572736f646973637265746f" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://masto.donte.com.br/@Sup3rb1" style="max-width: 100%;"></a>
+<a href="www.linkedin.com/in/sup3rb1" rel="nofollow"><img src="https://camo.githubusercontent.com/eb944eec45adc4b5e254bf0a70234e06aa6a19c1d932908d6b32b16b718b2ec4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6c756361732d6c6174746172692d3934386235303161612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=www.linkedin.com/in/sup3rb1" style="max-width: 100%;"></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaosuperb1&label=Profile%20views&color=0e75b6&style=flat" alt="joaosuperb1" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosuperb1&show_icons=true&locale=en&layout=compact" alt="joaosuperb1" /></p>
 
