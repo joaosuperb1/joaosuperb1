@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm João Victor Superbi</h1>
-<h3 align="center">Um ser aí que faz uns trem aí...</h3>
+<h1 align="left">Oi👋! Eu sou o João Victor Superbi, mas pode me chamar de Superbi.</h1>
+<h3 align="left">Só cara aí com uma namorada linda❤\n
+Mexo no blender de vez em quando...\n
+Pão de queijo é vida! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaosuperb1&label=Profile%20views&color=0e75b6&style=flat" alt="joaosuperb1" /> </p>
 
