@@ -17,5 +17,4 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaosuperb1&label=Profile%20views&color=0e75b6&style=flat" alt="joaosuperb1" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosuperb1&show_icons=true&locale=en&layout=compact" alt="joaosuperb1" /></p>
 
